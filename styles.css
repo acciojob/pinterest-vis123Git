@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-item:center;
+}
+
+.left-sec>img{
+	height:200px;
+	width:400px;
+}
+
+button{
+	border:none;
+	background-color: #EF574C;
+	color:white;
+}
+
+.content{
+/* 	margin-left:10px; */
+	align-item : center;
+	text-align:center;
+}
